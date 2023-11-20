@@ -18,7 +18,6 @@ featuredImagePreview: ""
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
-lightgallery: true
 library:
   css:
     # someCSS = "some.css"
