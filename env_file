@@ -1,0 +1,3 @@
+AWS_ACCESS_KEY_ID="op://AWS/n2b5psxrtvc7ih447s2mjyre3u/access key id"
+AWS_SECRET_ACCESS_KEY="op://AWS/n2b5psxrtvc7ih447s2mjyre3u/secret access key"
+AWS_REGION="us-east-1"
