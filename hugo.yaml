@@ -1,9 +1,11 @@
 baseURL: https://jmallen.net
 
-theme: 
- - keepit
- - hugo-notice
+theme: keepit
 themesDir: themes
+
+module:
+  imports:
+    - path: hugo-notice
 
 # Website Title
 title: JMA
