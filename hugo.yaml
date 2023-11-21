@@ -1,6 +1,8 @@
 baseURL: https://jmallen.net
 
-theme: keepit
+theme: 
+ - keepit
+ - hugo-notice
 themesDir: themes
 
 # Website Title
