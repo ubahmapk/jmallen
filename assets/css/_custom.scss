@@ -2,3 +2,62 @@
 // Custom style
 // 自定义样式
 // ==============================
+
+// Style for bibleref shortcode
+.bibleref {
+  blockquote {
+    //font-size: 1.4em;
+    width:85%;
+    margin:50px auto;
+    //font-family:Open Sans;
+    font-style:italic;
+    //color: #555555;
+    padding:1.2em 30px 1.2em 1.75em;
+    border-left:8px solid $global-font-color;
+    line-height:1.6;
+    position: relative;
+    background-color: $blockquote-color;
+  }
+
+  [theme=dark] blockquote {
+    border-left:8px solid $global-font-color-dark;
+    background-color: $blockquote-color-dark;
+  }
+  
+  blockquote::before {
+    font-family:Arial;
+    content: "\201C";
+    color: $global-font-color-dark;
+    font-size:5em;
+    position: absolute;
+    left: -47px;
+    top:-20px;
+  }
+
+  [theme=dark] blockquote::before {
+    color: $global-font-color-dark;
+  } 
+
+  blockquote::after{
+    content: '';
+  }
+  
+  blockquote span{
+    display:block;
+    color: $global-font-secondary-color;
+    font-style: normal;
+    font-weight: bold;
+    margin-top:1em;
+    padding-left: 30px;
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNhOWE5YjMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1ib29rLXBsdXMiPjxwYXRoIGQ9Ik00IDE5LjV2LTE1QTIuNSAyLjUgMCAwIDEgNi41IDJIMjB2MjBINi41YTIuNSAyLjUgMCAwIDEgMC01SDIwIi8+PHBhdGggZD0iTTkgMTBoNiIvPjxwYXRoIGQ9Ik0xMiA3djYiLz48L3N2Zz4=);
+    // THIS should be the light mode icon, but the dark mode below isn't working right now
+    //background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWJvb2stcGx1cyI+PHBhdGggZD0iTTQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMkgyMHYyMEg2LjVhMi41IDIuNSAwIDAgMSAwLTVIMjAiLz48cGF0aCBkPSJNOSAxMGg2Ii8+PHBhdGggZD0iTTEyIDd2NiIvPjwvc3ZnPg==);
+    background-repeat: no-repeat;
+  }
+
+  [theme=dark] blockquote span {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNhOWE5YjMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1ib29rLXBsdXMiPjxwYXRoIGQ9Ik00IDE5LjV2LTE1QTIuNSAyLjUgMCAwIDEgNi41IDJIMjB2MjBINi41YTIuNSAyLjUgMCAwIDEgMC01SDIwIi8+PHBhdGggZD0iTTkgMTBoNiIvPjxwYXRoIGQ9Ik0xMiA3djYiLz48L3N2Zz4=);
+    color: $global-font-secondary-color-dark;
+  }
+
+}
