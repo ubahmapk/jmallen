@@ -31,6 +31,6 @@ I noticed this morning another instance where God accounted for our ability to f
 > 
 > You will then place the container before the LORD your God and bow down to him. 11 You, the Levites, and the resident aliens among you will rejoice in all the good things the LORD your God has given you and your household. 
 
-I think that's a beautiful picture, to think of the Israelites re-telling their story when offering their sacrifice. It's a built-in reminder of all they have to be thankful for.
+That's a beautiful picture, to think of the Israelites re-telling their story when offering their sacrifice. It's a built-in reminder of all they have to be thankful for.
 
 So, does that make Thanksgiving a Biblical holiday? 😁
