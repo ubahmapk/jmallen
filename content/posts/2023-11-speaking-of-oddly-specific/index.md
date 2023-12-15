@@ -1,6 +1,7 @@
 ---
 title: "Speaking of Oddly Specific..."
 subtitle: "Was this a common problem?!"
+url: 2023/11/speaking-of-oddly-specific/
 date: 2023-11-20T08:30:55-06:00
 lastmod: 2023-11-20T08:30:55-06:00
 draft: false
