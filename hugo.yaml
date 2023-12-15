@@ -1,5 +1,5 @@
-#baseURL: https://jmallen.net
-baseURL: https://blog.jmallen.net
+baseURL: https://jmallen.net
+#baseURL: https://www.jmallen.net
 
 theme: keepit
 themesDir: themes
