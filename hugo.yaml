@@ -1,4 +1,5 @@
-baseURL: https://jmallen.net
+#baseURL: https://jmallen.net
+baseURL: https://ubahmapk.github.io
 
 theme: keepit
 themesDir: themes
