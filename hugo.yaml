@@ -553,9 +553,3 @@ outputs:
   taxonomy:
     - HTML
     - RSS
-
-deployment:
-  targets:
-    - name: production
-      URL: "s3://jmallen-net-content/?prefix=public/"
-      cloudFrontDistributionID: "E34C3FFTLJINO1"
