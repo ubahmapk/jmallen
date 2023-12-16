@@ -1,10 +1,10 @@
 ---
 title: "The World Wants to Know What Makes People Happy"
 subtitle: "but there is something deeper than happiness"
-url: 2023/11/what-makes-people-happy
-date: 2023-11-21T13:27:36-06:00
-lastmod: 2023-11-21T13:27:36-06:00
-draft: true
+url: 2023/12/what-makes-people-happy
+date: 2023-12-16T13:40:00-0600
+lastmod: 2023-12-16T13:40:00-0600
+draft: false
 author: "JMA"
 description: "Commentary on Veritasium's video on the loggest running study on happiness."
 tags: 
@@ -69,5 +69,9 @@ What's more, our joy is not just for right now, but rooted in eternity.
 {{< bibleref reference="[John 16.20-22](https://biblia.com/books/esv/Jn16.20-22)" >}}
 20 Truly, truly, I say to you, you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will turn into joy. 21 When a woman is giving birth, she has sorrow because her hour has come, but when she has delivered the baby, she no longer remembers the anguish, for joy that a human being has been born into the world. 22 So also you have sorrow now, but I will see you again, and your hearts will rejoice, and no one will take your joy from you
 {{< /bibleref >}}
+
+This is another example where science continues to line up with what Scripture has told us all along. Which is expected, since both have the same author.
+
+---
 
 [^1]: We are big fans of Veritasium in this house. That team puts together high quality content, usually based on science but sometimes on other interesting topics, too. 
