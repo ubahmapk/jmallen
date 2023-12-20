@@ -3,7 +3,7 @@ title: "Heaped Up Happiness"
 subtitle: "a prayer by Thomas Brooks"
 date: 2023-12-20T10:52:48-06:00
 lastmod: 2023-12-20T10:52:48-06:00
-draft: true
+draft: false
 author: "JMA"
 description: ""
 tags: 
