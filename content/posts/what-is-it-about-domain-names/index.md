@@ -22,7 +22,7 @@ lightgallery: false
 What is it about domain names that makes me enjoy buying so many of them?
 <!--more-->
 
-{{% figure src="2023-11-20-domain-count.png" caption="I may have a problem" alt="Screenshot of number of domains owned" %}}
+{{% figure src="2023-11-20-domain-count.webp" caption="I may have a problem" alt="Screenshot of number of domains owned" %}}
 
 Plus I have another 7 registered with AWS Route53. 🤷‍♂️️
 
