@@ -3,45 +3,46 @@
 // 自定义样式
 // ==============================
 
+blockquote {
+  //font-size: 1.4em;
+  width:85%;
+  margin:50px auto;
+  //font-family:Open Sans;
+  font-style:italic;
+  //color: #555555;
+  padding:1.2em 30px 1.2em 1.75em;
+  border-left:8px solid $global-font-color;
+  line-height:1.6;
+  position: relative;
+  background-color: $blockquote-color;
+}
+
+[theme=dark] blockquote {
+  border-left:8px solid $global-font-color-dark;
+  background-color: $blockquote-color-dark;
+}
+  
+blockquote::before {
+  font-family:Arial;
+  content: "\201C";
+  color: $global-font-color-dark;
+  font-size:5em;
+  position: absolute;
+  left: -47px;
+  top:-20px;
+}
+
+[theme=dark] blockquote::before {
+  color: $global-font-color-dark;
+} 
+
+blockquote::after{
+  content: '';
+}
+
 // Style for bibleref shortcode
 .bibleref {
-  blockquote {
-    //font-size: 1.4em;
-    width:85%;
-    margin:50px auto;
-    //font-family:Open Sans;
-    font-style:italic;
-    //color: #555555;
-    padding:1.2em 30px 1.2em 1.75em;
-    border-left:8px solid $global-font-color;
-    line-height:1.6;
-    position: relative;
-    background-color: $blockquote-color;
-  }
 
-  [theme=dark] blockquote {
-    border-left:8px solid $global-font-color-dark;
-    background-color: $blockquote-color-dark;
-  }
-  
-  blockquote::before {
-    font-family:Arial;
-    content: "\201C";
-    color: $global-font-color-dark;
-    font-size:5em;
-    position: absolute;
-    left: -47px;
-    top:-20px;
-  }
-
-  [theme=dark] blockquote::before {
-    color: $global-font-color-dark;
-  } 
-
-  blockquote::after{
-    content: '';
-  }
-  
   blockquote span{
     display:block;
     color: $global-font-secondary-color;
