@@ -20,3 +20,4 @@ I'm on the social medias, but not super active. I don't find most of the convers
 - Twitter: [@ubahmapk](https://twitter.com/ubahmapk)
 - Mastodon: [@ubahmapk@im-in.space](https://im-in.space/@ubahmapk)
 - LinkedIn: [Jon Mark Allen](https://www.linkedin.com/in/jonmarkallen)
+- [Apple iMessage Contact Key Public Verification Code](https://support.apple.com/en-mide/HT213465): APKTIDYe59yRmwzCq94d2oYBIVxKCay-96SreVaJbuKIvMiUps6A
