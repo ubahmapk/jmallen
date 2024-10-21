@@ -17,7 +17,7 @@ title: JMA
 # hasCJKLanguage: false
 
 # default amount of posts in each pages
-paginate: 10
+pagination.pagerSize: 10
 # google analytics code [UA-XXXXXXXX-X]
 #googleAnalytics: ""
 # copyright description used only for seo schema
@@ -399,7 +399,7 @@ params:
     library:
       # someCSS = "some.css"
       # located in "assets/"
-      # Or 
+      # Or
       # someCSS = "https://cdn.example.com/some.css"
       css: {}
       # someJavascript = "some.js"
@@ -438,7 +438,7 @@ params:
   # Site SEO config
   seo:
     image: /images/avatar.png
-    thumbnailUrl: 
+    thumbnailUrl:
 
   analytics:
     enable: false
@@ -469,7 +469,7 @@ params:
     # you can store your own data files in the same path under your project:
     # "assets/data/cdn/"
     data: ""
-      
+
   compatibility:
     # whether to use Polyfill.io to be compatible with older browsers
     polyfill: false
