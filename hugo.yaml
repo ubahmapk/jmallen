@@ -79,6 +79,10 @@ params:
   images:
     - /logo.png
 
+  Author:
+    name: JMA
+    email: ""
+
   # Header config
   header:
     # desktop header mode ["fixed", "normal", "auto"]
