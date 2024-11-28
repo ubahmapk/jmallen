@@ -1,3 +1,6 @@
 [submodule "themes/hugo-notice"]
 	path = themes/hugo-notice
 	url = https://github.com/martignoni/hugo-notice.git
+[submodule "themes/keepit"]
+	path = themes/keepit
+	url = https://github.com/Fastbyte01/KeepIt
