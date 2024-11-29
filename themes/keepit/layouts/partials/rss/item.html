@@ -15,9 +15,8 @@
     <guid>
         {{- .Page.Permalink -}}
     </guid>
-    <description>
-        {{- "
-        <![CDATA[" | safeHTML -}}
+   <description>
+        {{- "<![CDATA[" | safeHTML -}}
         {{- with $params.featuredimage -}}
             <div class="featured-image">
                 <img src="{{ . | relURL }}" referrerpolicy="no-referrer">
