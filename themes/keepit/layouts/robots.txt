@@ -1,5 +1,8 @@
 User-agent: *
 
+# Random testing posts
+Disallow: /2024/2024-github-actions/
+
 Disallow: /images/
 Disallow: /js/
 Disallow: /css/
