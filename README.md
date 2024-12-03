@@ -4,6 +4,8 @@ Personal home page for JMA, driven by [Hugo CMS](https://gohugo.io)
 
 Published at https://jmallen.net, via GitHub pages
 
+[![Deploy Hugo site to GitHub Pages](https://github.com/ubahmapk/jmallen/actions/workflows/hugo.yaml/badge.svg?branch=main&event=push)](https://github.com/ubahmapk/jmallen/actions/workflows/hugo.yaml)
+
 ## Install
 
 ```shell
