@@ -4,8 +4,6 @@ name: Deploy Hugo site to GitHub Pages
 on:
   # Runs on pushes targeting the default branch, with a v* version tag
   push:
-    branches:
-      - main
     tags:
       - "v**"
 
