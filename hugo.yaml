@@ -38,7 +38,6 @@ author:
 
 # Menu config
 menu:
-
   main:
     - weight: 1
       identifier: posts
@@ -63,7 +62,7 @@ menu:
       post: ""
       name: About
       url: /about/
-      title: "Customary \"About\" page..."
+      title: 'Customary "About" page...'
 
 params:
   # site default theme ["auto", "light", "dark"]
@@ -118,7 +117,6 @@ params:
     icp: ""
     # license info (HTML format is supported)
     license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>
-
 
   # Section (all posts) page config
   section:
@@ -531,16 +529,16 @@ privacy:
 
 # Options to make output .md files
 #mediaTypes:
-  #text/plain:
-    #suffixes:
-      #- md
+#text/plain:
+#suffixes:
+#- md
 
 # Options to make output .md files
 #outputFormats:
-  #MarkDown:
-    #mediaType: text/plain
-    #isPlainText: true
-    #isHTML: false
+#MarkDown:
+#mediaType: text/plain
+#isPlainText: true
+#isHTML: false
 
 # Options to make hugo output files
 outputs:
