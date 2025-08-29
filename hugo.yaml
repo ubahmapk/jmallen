@@ -517,14 +517,14 @@ sitemap:
 
 # Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
 Permalinks:
-  posts: :year/:month/:filename
+  posts: :year/:month/:contentbasename
   #posts: :filename
 
 # Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
 privacy:
   # privacy of the Google Analytics (replaced by params.analytics.google)
   googleAnalytics: {}
-  twitter:
+  x:
     enableDNT: true
   youtube:
     privacyEnhanced: true
